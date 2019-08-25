@@ -1,6 +1,5 @@
 package collections.stream_sort_performance;
 
-import collections.collection_contains_performance.CollectionContains;
 import org.openjdk.jmh.runner.Runner;
 import org.openjdk.jmh.runner.options.Options;
 import org.openjdk.jmh.runner.options.OptionsBuilder;
